@@ -1,3 +1,5 @@
+
+# FORK du projet [QFlore](https://github.com/FelixHinckel/QFlore)
 # 🌿 QFlore 1.2.5 _Gagea bohemica_
 QFlore est un projet Qgis autoportant, optimisé pour la prise de donnée terrain via l'application mobile QField 📱.
 
